@@ -1,0 +1,4 @@
+D:/Firmware Test/C Learning/Vector/CMakeFiles/Vector.dir
+D:/Firmware Test/C Learning/Vector/CMakeFiles/rebuild_cache.dir
+D:/Firmware Test/C Learning/Vector/CMakeFiles/test.dir
+D:/Firmware Test/C Learning/Vector/CMakeFiles/edit_cache.dir

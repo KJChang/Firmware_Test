@@ -1,0 +1,1 @@
+其實看起來當時Array 試完後，我就開始Show Pointer了XD

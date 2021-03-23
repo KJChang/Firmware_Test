@@ -1,0 +1,4 @@
+D:/Firmware Test/C Learning/Function/CMakeFiles/Function.dir
+D:/Firmware Test/C Learning/Function/CMakeFiles/rebuild_cache.dir
+D:/Firmware Test/C Learning/Function/CMakeFiles/test.dir
+D:/Firmware Test/C Learning/Function/CMakeFiles/edit_cache.dir
